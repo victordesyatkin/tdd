@@ -1,7 +1,4 @@
-let a = 1 + 2;
-let b = a + 3;
-let c = {
-  apple: a,
-  banana: b,
-};
-let d = c.apple * 4;
+let d = [true, true, false];
+let e = { type: "ficus" };
+const g = [3];
+let h = null;
